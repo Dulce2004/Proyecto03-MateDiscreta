@@ -1,0 +1,7 @@
+2024-10-23 07:07:34,142 - INFO - Operación exitosa: (7^3 + 4 * 5) * 2  mod 23 = 13
+2024-10-23 07:07:36,893 - INFO - Operación deshecha: (7^3+4*5)*2 mod 23 = 13
+2024-10-23 07:07:38,844 - INFO - Operación exitosa: (7^3+4*5)*2 mod 23 = 13
+2024-10-23 07:07:40,426 - INFO - Operación deshecha: (7^3+4*5)*2 mod 23 = 13
+2024-10-23 07:07:41,603 - INFO - Operación exitosa: (7^3+4*5)*2 mod 23 = 13
+2024-10-23 07:07:42,487 - INFO - Campos limpiados
+2024-10-23 07:07:43,822 - INFO - Operación deshecha: (7^3+4*5)*2 mod 23 = 13
